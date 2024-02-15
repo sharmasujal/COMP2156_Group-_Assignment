@@ -1,5 +1,7 @@
 # Information about GBC
 # GEORGE BROWN COLLEGE
-
-#Located at Toronto, Ontario
-#International college
+#
+# Located at Toronto, Ontario
+# International college
+#
+# George Brown College provides a blend of theory and hands-on experience. 

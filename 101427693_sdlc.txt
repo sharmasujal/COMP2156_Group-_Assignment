@@ -1,0 +1,4 @@
+SOFTWARE DEVELOPMENT LIFE CYCLE
+
+SDLC is the closed chain of process which is a repeated loop from gathering requiremtent,
+planning, coding, testing, deploying, maintainance and update.

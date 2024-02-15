@@ -1,1 +1,4 @@
 DevOps is an approach to developing and delivering software faster and safer. DevOps represents both a cultural and technological movement. To embrace DevOps, organizations must change their organizational structure culture and structure, such as adopting new tools and processes.
+
+
+The benefits of DevOps in the cloud is user don’t have to worry about hardware, but can scale at will just by getting more capacity, whether for computing or storage

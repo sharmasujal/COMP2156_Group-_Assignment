@@ -5,3 +5,5 @@
 #  DevOps engineers are instrumental in combining code, application maintenance, and application management. 
 
 #  All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.
+
+# It is currently a topic in our course comp 2156, trying to learn more about it

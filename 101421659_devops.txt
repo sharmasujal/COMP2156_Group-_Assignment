@@ -2,3 +2,6 @@ DevOps is an approach to developing and delivering software faster and safer. De
 
 
 The benefits of DevOps in the cloud is user don’t have to worry about hardware, but can scale at will just by getting more capacity, whether for computing or storage
+
+
+List of books- The Unicorn Project, Devops of the modern Enterprise, Effective devops..

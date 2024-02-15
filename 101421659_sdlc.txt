@@ -1,1 +1,13 @@
 DevOps is essential for organizations aiming to stay agile, deliver value quickly, and maintain a competitive edge in the evolving tech landscape.
+
+
+
+Testing: Rigorous testing to identify and fix bugs, ensuring the software meets the specified requirements and functions correctly.
+
+Deployment: Releasing the software to the production environment or end-users.
+
+Maintenance: Involves ongoing support, updates, and bug fixes after the software is deployed to ensure its continued functionality and relevance.
+
+Documentation: Comprehensive documentation throughout the SDLC, including requirements, design, code, and user manuals.
+
+Coollaboration: Promotes collaboration among cross-functional teams, ensuring effective communication and coordination throughout the development process.

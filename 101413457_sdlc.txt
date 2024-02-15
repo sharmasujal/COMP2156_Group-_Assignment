@@ -7,3 +7,5 @@ Key features of SDLC:
 4.Quality assurance: Emphasizes testing for bugs and errors.
 5.Documentation: Encourages comprehensive documentation at each stage.
 6.Flexibility: Adapts to project and organizational needs.
+
+The Software Development Life Cycle (SDLC) concept has evolved over time through collaboration among various software development professionals, organizations, and researchers. There isn't a single individual or entity credited with its creation. Instead, it has been shaped by contributions from experts in software engineering, project management, and related fields over several decades. Various methodologies and frameworks, such as the Waterfall model, Agile methodology, and Spiral model, have influenced the development and refinement of SDLC practices.

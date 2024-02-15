@@ -3,7 +3,7 @@
 Group members
 Sujal Sharma - 101413457(Leader)
 Chandu Kanojia - 101427693
-Krish Chauhan - 101421659A
+Krish Chauhan - 101421659
 Aniket Nayyar - 101424704
 
 

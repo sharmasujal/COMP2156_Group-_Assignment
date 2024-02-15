@@ -1,0 +1,1 @@
+DevOps is an approach to developing and delivering software faster and safer. DevOps represents both a cultural and technological movement. To embrace DevOps, organizations must change their organizational structure culture and structure, such as adopting new tools and processes.

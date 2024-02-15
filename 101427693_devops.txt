@@ -1,2 +1,4 @@
 COMP 2156 Devops for System adminstration
 course is taught by Pritam Patel
+
+The classes are on Monday and Wednesday from 06:00 pm to 08:00pm

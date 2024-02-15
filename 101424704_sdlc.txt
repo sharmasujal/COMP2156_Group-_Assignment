@@ -1,3 +1,8 @@
 # This is the SDLC text file
 #
 # The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software. 
+
+
+# Sharing some information about the project
+ really fun working on the group project, all members of the team contribute 
+ there best and make the assignment really easy and quick to finish

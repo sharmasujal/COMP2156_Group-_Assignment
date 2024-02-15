@@ -5,3 +5,6 @@ The benefits of DevOps in the cloud is user don’t have to worry about hardware
 
 
 List of books- The Unicorn Project, Devops of the modern Enterprise, Effective devops..
+
+
+The evolution of Softwaree Development Life Cycle (SDLC) has seen a transition from traditional, linear methodologies like Waterfall to more iterative and collaborative approaches. The Waterfall model, characterized by sequential phases, gave way to the Agile model, emphasizing flexibility, frequent feedback, and incremental development. Agile's success led to the emergence of DevOps, integrating development and operations for continuous delivery. DevOps promotes collaboration, automation, and rapid releases. Further evolution brought about DevSecOps, emphasizing security integration throughout the SDLC. Continuous Integration/Continuous Deployment (CI/CD) pipelines became integral, automating testing and deployment. The evolution reflects a shift towards more adaptive, collaborative, and efficient processes, aligning with the dynamic needs of modern software development and the demand for quicker, high-quality releases.

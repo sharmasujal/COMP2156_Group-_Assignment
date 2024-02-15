@@ -1,3 +1,7 @@
 # Information about Devops
 
 # DevOps can be best explained as people working together to conceive, build and deliver secure software at top speed. 
+
+#  DevOps engineers are instrumental in combining code, application maintenance, and application management. 
+
+#  All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.

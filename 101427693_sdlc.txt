@@ -2,3 +2,20 @@ SOFTWARE DEVELOPMENT LIFE CYCLE
 
 SDLC is the closed chain of process which is a repeated loop from gathering requiremtent,
 planning, coding, testing, deploying, maintainance and update.
+
+
+Phases in SDLC
+procedures, 
+practices,
+guidelines governing the initiation, 
+concept development, 
+planning, 
+requirements analysis, 
+design, 
+development, 
+integration and test, 
+implementation, 
+Operations, maintenance and disposition of information systems (IS) within the DOJ
+
+
+Thank you

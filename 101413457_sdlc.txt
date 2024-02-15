@@ -1,1 +1,9 @@
 SDLC stands for Software Development Life Cycle. It's a structured process used by development teams to design, develop, test, and deploy software efficiently.
+Key features of SDLC:
+
+1.Structured approach: Organizes software development into phases.
+2.Requirements management: Focuses on gathering and managing project needs.
+3.Iterative development: Supports continuous improvement through cycles.
+4.Quality assurance: Emphasizes testing for bugs and errors.
+5.Documentation: Encourages comprehensive documentation at each stage.
+6.Flexibility: Adapts to project and organizational needs.

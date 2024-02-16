@@ -1,0 +1,29 @@
+SOFTWARE DEVELOPMENT LIFE CYCLE
+
+SDLC is the closed chain of process which is a repeated loop from gathering requiremtent,
+planning, coding, testing, deploying, maintainance and update.
+
+
+Phases in SDLC
+procedures, 
+practices,
+guidelines governing the initiation, 
+concept development, 
+planning, 
+requirements analysis, 
+design, 
+development, 
+integration and test, 
+implementation, 
+Operations, maintenance and disposition of information systems (IS) within the DOJ
+
+
+THE IMPORTANCE OF SDLC
+The software development lifecycle (SDLC) is the cost-effective and time-efficient process 
+that development teams use to design and build high-quality software.
+The goal of SDLC is to minimize project risks through forward planning 
+so that software meets customer expectations during production and beyond.
+
+
+
+Thank you
